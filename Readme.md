@@ -14,7 +14,7 @@
 
   主要提供两类用户登录：普通用户； 管理员用户
 
-  ![登录界面](C:\Users\28575\Pictures\屏幕截图\Snipaste_2023-01-13_12-15-36.png)
+  ![登录界面](https://raw.githubusercontent.com/Moran-0/Java_Enterprise_Devices_ManageMent_System/master/Image/Snipaste_2023-01-13_12-15-36.png)
 
 
 
@@ -22,7 +22,7 @@
 
   登录后进入主界面主要是一张图片和标题，只起展示之用。
 
-  ![主界面](C:\Users\28575\AppData\Roaming\Typora\typora-user-images\image-20230113121908116.png)
+  ![主界面](https://raw.githubusercontent.com/Moran-0/Java_Enterprise_Devices_ManageMent_System/master/Image/Snipaste_2023-01-13_12-19-04.png)
 
 - **信息查询**
 
@@ -39,7 +39,7 @@
 
   界面展示：
 
-  ![信息查询](C:\Users\28575\AppData\Roaming\Typora\typora-user-images\image-20230113122251011.png)
+  ![信息查询](https://raw.githubusercontent.com/Moran-0/Java_Enterprise_Devices_ManageMent_System/master/Image/Snipaste_2023-01-13_12-22-41.png)
 
   功能说明：
 
@@ -51,7 +51,7 @@
 
   提供设备库存信息中的部分全局数据的统计，从而展示设备库存的一个全局状态
 
-  ![信息统计](C:\Users\28575\AppData\Roaming\Typora\typora-user-images\image-20230113122744184.png)
+  ![信息统计](https://raw.githubusercontent.com/Moran-0/Java_Enterprise_Devices_ManageMent_System/master/Image/Snipaste_2023-01-13_12-27-42.png)
 
 - **库存更新**
 
@@ -59,23 +59,23 @@
 
   - 需求登记
 
-    ![需求登记](C:\Users\28575\AppData\Roaming\Typora\typora-user-images\image-20230113123046884.png)
+    ![需求登记](https://raw.githubusercontent.com/Moran-0/Java_Enterprise_Devices_ManageMent_System/master/Image/Snipaste_2023-01-13_12-30-41.png)
 
   - 设备采购
 
-    ![设备采购](C:\Users\28575\AppData\Roaming\Typora\typora-user-images\image-20230113123121185.png)
+    ![设备采购](https://raw.githubusercontent.com/Moran-0/Java_Enterprise_Devices_ManageMent_System/master/Image/Snipaste_2023-01-13_12-31-19.png)
 
   - 设备入库
 
-    ![设备入库](C:\Users\28575\AppData\Roaming\Typora\typora-user-images\image-20230113123206238.png)
+    ![设备入库](https://raw.githubusercontent.com/Moran-0/Java_Enterprise_Devices_ManageMent_System/master/Image/Snipaste_2023-01-13_12-32-01.png)
 
   - 设备出库
 
-    ![设备出库](C:\Users\28575\AppData\Roaming\Typora\typora-user-images\image-20230113123244731.png)
+    ![设备出库](https://raw.githubusercontent.com/Moran-0/Java_Enterprise_Devices_ManageMent_System/master/Image/Snipaste_2023-01-13_12-32-38.png)
 
   - 设备还库
 
-    ![设备还库](C:\Users\28575\AppData\Roaming\Typora\typora-user-images\image-20230113123402684.png)
+    ![设备还库](https://raw.githubusercontent.com/Moran-0/Java_Enterprise_Devices_ManageMent_System/master/Image/Snipaste_2023-01-13_12-34-00.png)
 
 - **信息修改**
 
@@ -83,15 +83,15 @@
 
   - 修改员工信息（联系电话， 所属部门）
 
-    ![修改员工信息](C:\Users\28575\AppData\Roaming\Typora\typora-user-images\image-20230113123609607.png)
+    ![修改员工信息](https://raw.githubusercontent.com/Moran-0/Java_Enterprise_Devices_ManageMent_System/master/Image/Snipaste_2023-01-13_12-35-30.png)
 
   - 修改供应商信息（名字， 地址）
 
-    ![修改供应商信息](C:\Users\28575\AppData\Roaming\Typora\typora-user-images\image-20230113123650421.png)
+    ![修改供应商信息](https://raw.githubusercontent.com/Moran-0/Java_Enterprise_Devices_ManageMent_System/master/Image/Snipaste_2023-01-13_12-36-48.png)
 
   - 修改需求信息（即撤销未完成的需求)
 
-    ![撤销需求](C:\Users\28575\AppData\Roaming\Typora\typora-user-images\image-20230113123902152.png)
+    ![撤销需求](https://raw.githubusercontent.com/Moran-0/Java_Enterprise_Devices_ManageMent_System/master/Image/Snipaste_2023-01-13_12-39-00.png)
 
 ## **数据库设计**
 
@@ -108,7 +108,7 @@
 - 设备还库表 devices_back
 - 设备需求表 devices_need
 
-<img src="C:\Users\28575\AppData\Roaming\Typora\typora-user-images\image-20230113131007577.png" alt="表间关系" style="zoom:50%;" />
+<img src="https://raw.githubusercontent.com/Moran-0/Java_Enterprise_Devices_ManageMent_System/master/Image/Snipaste_2023-01-13_13-10-03.png" alt="表间关系" style="zoom:50%;" />
 
 存储过程
 
